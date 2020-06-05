@@ -1,3 +1,1 @@
 This package is for the code of SOFI
-
-Please download it full.
